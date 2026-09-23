@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d31a6cc253d7338b9817ca3f",
+  "owner": "neejxxpus",
+  "repo": "page-6d8b7a1e62ea7f6c7270ae70",
+  "title": "破烂小屋",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6d8b7a1e62ea7f6c7270ae70",
+      "a": "破烂小屋",
+      "b": "机场官网线路发布页",
+      "entity": "破烂小屋",
+      "brand": "破烂小屋",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7e295a08ad4734c96adc420a78aa4d4cafd28c59ca39071757abbaa69904cae4",
+      "content": {
+        "primary_entity": "破烂小屋",
+        "keyword1": "破烂小屋",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕订阅套餐、设备使用量和线路偏好展开。基础版适合轻量浏览，旗舰版兼顾流媒体与游戏加速，团队版为多设备和定制路由准备。按年付比月付更省，设备数和流量上限是选套餐的关键。",
+          "AI_HERO_SUBTITLE": "按设备与用量挑套餐",
+          "AI_HERO_INTRO": "破烂小屋提供基础版、旗舰版、团队版三档订阅，覆盖从日常浏览到多设备团队配置的需求。每月流量、同时在线设备数和线路能力是主要差别。按年付基础版150元、旗舰版350元、团队版850元，长期使用更划算。",
+          "AI_VISUAL_TITLE": "破烂小屋加速订阅",
+          "AI_HIGHLIGHT_1": "可选IPLC专线加速",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付更省月费",
+          "AI_FEATURES_TITLE": "订阅与配置要点",
+          "AI_FEATURES_INTRO": "挑选破烂小屋套餐时，先看设备数、月流量和线路需求，再决定按月或按年。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，家庭和小团队都有对应选择。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度使用，300GB满足日常追剧，1000GB适合多设备同时跑高带宽。",
+          "AI_FEATURE_TITLE_3": "按年付更省钱",
+          "AI_FEATURE_TEXT_3": "三档套餐按年付折合月费更低，长期使用优先考虑年付方式。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "在Windows、macOS、Android、iOS等设备上，使用对应系统的主流客户端导入订阅。具体兼容性依设备与版本而定，建议先查阅客户端文档。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版15元/月，旗舰版35元/月，团队版85元/月。点选套餐即可查看对应流量、设备数和线路权益。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选定套餐到完成订阅导入，每个环节都有对应信息可确认。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量预估，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统和客户端版本满足订阅导入要求，避免导入失败。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，保存后刷新节点列表即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "破烂小屋套餐怎么选最合适？",
+          "AI_FAQ_ANSWER_1": "先看同时在线设备数和每月流量。1到3台设备、100GB内选基础版；需要流媒体解锁和游戏加速选旗舰版；多设备或团队使用选团队版。",
+          "AI_FAQ_QUESTION_2": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元、旗舰版350元、团队版850元，折合月费均低于月付价格，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备？",
+          "AI_FAQ_ANSWER_3": "常见平台如Windows、macOS、Android、iOS均有主流客户端可选，具体兼容情况随客户端版本变化，使用前建议核对客户端文档。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "选择对应系统的客户端，在订阅管理里粘贴订阅链接并更新，节点列表出现后即可选择线路。导入失败时检查链接是否完整、客户端是否为较新版本。",
+          "AI_FAQ_QUESTION_5": "流量用超了怎么办？",
+          "AI_FAQ_ANSWER_5": "套餐流量按自然月重置，用超后可等待重置或升级到更高档位。团队版1000GB流量适合多设备重度使用，可按需调整。",
+          "AI_CLOSING_TITLE": "选对套餐再上路",
+          "AI_CLOSING_TEXT": "先按设备数和流量锁定套餐，再参考客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fhsiyu.cn",
+    "host": "fhsiyu.cn"
+  },
+  "file_hashes": {
+    "index.html": "6f205688a2d2e597761e39e1d8eb4eb27271d1e0ae33a2ff50a5ebc461a609b2",
+    "sitemap.xml": "b3f51be42cda68b32128395d260385c48df7191960ca2bcca248ea8ff8bc1063",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "44e41ccd0ce234efe17c321492ba0e982ce274b4623369aa101162fc5a0dac8c",
+    "robots.txt": "7e2689d80063e654583f250d3fc408d18ba499830d16dc2eba88800786069eb7",
+    "24d119c4c798be47722b5f889f9c93fb.txt": "1fe7119d217938b10a78e4cdd9cd306fbdbc26699fc5c8236d36a2dfa8f9ec9e"
+  },
+  "revision": "5e27134fbf9adfe630e96e2e94780c6a8c011cf669f37d9bff2fdda06125a16b"
+}
